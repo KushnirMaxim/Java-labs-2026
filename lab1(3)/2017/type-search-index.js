@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html","k":"18"},{"p":"samples.synchronize","l":"Lab1"},{"p":"samples.synchronize","l":"ProstoClass"},{"p":"samples.synchronize.tntu","l":"ProstoClassThree"},{"p":"samples.synchronize","l":"ProstoClassTwo"}];updateSearchResults();
