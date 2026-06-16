@@ -1,0 +1,2 @@
+2026-06-17 00:01:51 | ОС: Windows 11 amd64 10.0 | JVM: 22.0.2 (Oracle Corporation) | Користувач: ПК
+2026-06-17 00:04:09 | ОС: Windows 11 amd64 10.0 | JVM: 22.0.2 (Oracle Corporation) | Користувач: ПК
